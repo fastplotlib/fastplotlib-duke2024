@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 *.npy
+__pycache__/
+*.nwb
